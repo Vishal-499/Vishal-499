@@ -10,18 +10,18 @@
 ### Languages and Tools:
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" style="margin-right: 15px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" style="margin-right: 25px;" />
   </a>
   <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-pandas-animal-soft-fill-soft-fill-juicy-fish.png" alt="Pandas" width="40" style="margin-right: 15px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" style="margin-right: 25px;" />
   </a>
   <a href="https://numpy.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40" style="margin-right: 15px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" style="margin-right: 25px;" />
   </a>
-  <a href="https://dev.mysql.com/doc/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" width="40" style="margin-right: 15px;" />
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" style="margin-right: 25px;" />
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" />
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" alt="Power BI" width="40" />
   </a>
 </p>
