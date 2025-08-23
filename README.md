@@ -8,5 +8,5 @@
 Python | SQL | Power BI | FastAPI | Streamlit | Excel
 
 ### Connect with Me:
-www.linkedin.com/in/vishal-agarwal-74b7341ab
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/vishal-agarwal-74b7341ab/)
 
