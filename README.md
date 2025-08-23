@@ -7,3 +7,6 @@
 ### Languages and Tools:
 Python | SQL | Power BI | FastAPI | Streamlit | Excel
 
+### Connect with Me:
+www.linkedin.com/in/vishal-agarwal-74b7341ab
+
