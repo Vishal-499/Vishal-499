@@ -1,5 +1,8 @@
-## Hi there 👋, I'm Vishal  
-### Data Analyst
+<div align="center">
+  <h2>Hi there 👋, I'm Vishal</h2>
+  <h3>Data Analyst</h3>
+</div>
+
 
 🔍 Data Analyst in training  
 🌱 Currently mastering Python, SQL, Power BI, FastAPI, Streamlit  
