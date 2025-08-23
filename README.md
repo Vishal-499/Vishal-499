@@ -1,11 +1,11 @@
 <div align="center">
-  <h2>Hi there 👋, I'm Vishal</h2>
+  <h2>Hi There 👋, I'm Vishal Agarwal</h2>
   <h3>Data Analyst</h3>
 </div>
 
 
 🔍 Data Analyst in training  
-🌱 Currently mastering Python, SQL, Power BI, FastAPI, Streamlit  
+🌱 Currently mastering Python, SQL, Power BI, FastAPI,Pandas 
 📫 Reach me at: vishalagarwal499@gmail.com
 ⚡ Fun fact: **A Mechanical Engineer Turned IT Professional**
 
