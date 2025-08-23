@@ -4,10 +4,13 @@
 </div>
 
 
-🔍 Data Analyst in training  
-🌱 Currently mastering Python, SQL, Power BI, FastAPI,Pandas 
-📫 Reach me at: vishalagarwal499@gmail.com
-⚡ Fun fact: **A Mechanical Engineer Turned IT Professional**
+<div align="left">
+  <p>🔍 <strong>Data Analyst in training</strong></p>
+  <p>🌱 Currently mastering <strong>Python, SQL, Power BI, FastAPI, Pandas</strong></p>
+  <p>📫 Reach me at: <a href="mailto:vishalagarwal499@gmail.com">vishalagarwal499@gmail.com</a></p>
+  <p>⚡ Fun fact: <em>A Mechanical Engineer Turned IT Professional</em></p>
+</div>
+
 
 ### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/vishal-agarwal-74b7341ab/)
