@@ -1,4 +1,6 @@
-                                                  Hi there 👋, I'm Vishal  
+## Hi there 👋, I'm Vishal  
+### Data Analyst
+
 🔍 Data Analyst in training  
 🌱 Currently mastering Python, SQL, Power BI, FastAPI, Streamlit  
 📫 Reach me at: vishalagarwal499@gmail.com
