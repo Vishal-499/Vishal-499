@@ -1,5 +1,9 @@
-Hi there 👋, I'm Vishal  
+                                                  Hi there 👋, I'm Vishal  
 🔍 Data Analyst in training  
 🌱 Currently mastering Python, SQL, Power BI, FastAPI, Streamlit  
-📫 Reach me at: [your email]  
-⚡ Fun fact: [something quirky or personal]  
+📫 Reach me at: vishalagarwal499@gmail.com
+⚡ Fun fact: **A Mechanical Engineer Turned IT Professional**
+
+### Languages and Tools:
+Python | SQL | Power BI | FastAPI | Streamlit | Excel
+
