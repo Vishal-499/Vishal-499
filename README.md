@@ -14,6 +14,7 @@
 
 ### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/vishal-agarwal-74b7341ab/)
+
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank)](https://www.hackerrank.com/profile/vishalagarwal499)
 
 
