@@ -5,7 +5,7 @@
 
 
 <div align="left">
-  <p>🔍 <strong>Data Analyst in training</strong></p>
+  <p>🔍 <strong> Passionate Data Analyst buliding real-world Projects</strong></p>
   <p>🌱 Currently mastering <strong>Python, SQL, Power BI, FastAPI, Pandas</strong></p>
   <p>📫 Reach me at: <a href="mailto:vishalagarwal499@gmail.com">vishalagarwal499@gmail.com</a></p>
   <p>⚡ Fun fact: <strong>A Mechanical Engineer Turned IT Professional</strong></p>
